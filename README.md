@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Aaryan Bhurtel
+- 👀 I’m interested in App Development
+- 🌱 I’m currently learning React JS
